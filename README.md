@@ -73,4 +73,8 @@ O projeto utiliza as seguintes bibliotecas:
 - scikit-learn
 - ucimlrepo
 
+## Autores
+
+- **Alvaro Oliveira**
+- **Bruno Hebert**
 
